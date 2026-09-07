@@ -1,0 +1,17 @@
+{
+  "name": "Fx Sharaf Sound FX",
+  "short_name": "Fx Sharaf",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#0a0e17",
+  "description": "Premium sound effects library by Fx Sharaf",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/BV5L4b5t/IMG-20260907-210044-668.jpg",
+      "sizes": "640x640",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
